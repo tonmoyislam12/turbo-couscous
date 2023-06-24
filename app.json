@@ -1,0 +1,12 @@
+{
+  "name": "Compression",
+  "description": "hello",
+  "repository": "turbo-couscous",
+  "stack": "container",
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "eco"
+    }
+  }
+}
