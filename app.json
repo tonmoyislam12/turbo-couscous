@@ -3,7 +3,7 @@
   "description": "hello",
   "repository": "https://github.com/tonmoyislam12/turbo-couscous",
   "stack": "container",
-    "env": {
+  "env": {
     "STREAM_KEY": {
       "description": "KEY FOR STREAMING",
       "required": false
