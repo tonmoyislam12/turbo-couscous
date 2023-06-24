@@ -12,7 +12,7 @@
       "description": "STREAM URL without leading '/'",
       "required": false
     }
-   }
+   },
   "formation": {
     "worker": {
       "quantity": 1,
