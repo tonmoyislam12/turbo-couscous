@@ -6,4 +6,4 @@ RUN apk update && apk add --no-cache \
     python3 py3-pip mediainfo
 RUN pip3 install gdown yt-dlp
 ADD . /usr/src/app/
-CMD ./stream.sh
+CMD ./compress.sh
